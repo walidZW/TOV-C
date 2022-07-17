@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1580283126 source:c:\coding\tpsfsd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TOV˥C.h"
+	"TOV˥C.c"
+
+1580302534 c:\coding\tpsfsd2\tov˥c.h
+
+1580303010 c:\coding\tpsfsd2\tov˥c.c
+	"TOV˥C.h"
+	<string.h>
+
